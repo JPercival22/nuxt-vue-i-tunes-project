@@ -47,6 +47,7 @@ Vuex
 <li>
 Access the Vuex store from the server and the client side
 </li>
+  </ul>
 <p>
 To run the project in VSCode: install node and vue - then enter npm run dev.
 
